@@ -1,0 +1,2 @@
+log log log 42
+log
